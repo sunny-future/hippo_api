@@ -457,3 +457,5 @@ Traceback (most recent call last):
     except models.FieldDoesNotExist:
 AttributeError: module 'django.db.models' has no attribute 'FieldDoesNotExist'
 ERROR 2021-01-27 00:28:37,019 basehttp 157 "GET /xadmin/users/user/ HTTP/1.1" 500 173676
+INFO 2021-01-27 00:32:50,050 autoreload 240 F:\文档\code\pythonCode\hippo\hippo_api\hippo_api\urls.py changed, reloading.
+INFO 2021-01-27 00:32:53,293 autoreload 617 Watching for file changes with StatReloader
