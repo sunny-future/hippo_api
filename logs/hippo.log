@@ -74,3 +74,386 @@ INFO 2021-01-26 00:20:34,667 basehttp 157 "POST /admin/login/?next=/admin/ HTTP/
 INFO 2021-01-26 00:20:34,820 basehttp 157 "GET /admin/ HTTP/1.1" 200 2902
 INFO 2021-01-26 00:20:37,699 basehttp 157 "GET /admin/auth/group/add/ HTTP/1.1" 200 7388
 INFO 2021-01-26 00:20:37,804 basehttp 157 "GET /admin/jsi18n/ HTTP/1.1" 200 3187
+INFO 2021-01-26 00:44:55,082 basehttp 157 "GET /admin/auth/group/add/ HTTP/1.1" 200 7388
+INFO 2021-01-26 00:44:55,128 basehttp 157 "GET /admin/jsi18n/ HTTP/1.1" 200 3187
+INFO 2021-01-26 00:44:56,121 basehttp 157 "GET /admin/auth/group/add/ HTTP/1.1" 200 7388
+INFO 2021-01-26 00:44:56,188 basehttp 157 "GET /admin/jsi18n/ HTTP/1.1" 200 3187
+INFO 2021-01-27 00:04:27,655 autoreload 617 Watching for file changes with StatReloader
+INFO 2021-01-27 00:06:22,575 autoreload 240 F:\文档\code\pythonCode\hippo\hippo_api\hippo_api\urls.py changed, reloading.
+INFO 2021-01-27 00:06:25,445 autoreload 617 Watching for file changes with StatReloader
+INFO 2021-01-27 00:07:02,812 autoreload 617 Watching for file changes with StatReloader
+INFO 2021-01-27 00:09:29,302 basehttp 157 "GET /xadmin/ HTTP/1.1" 200 3967
+INFO 2021-01-27 00:09:29,394 basehttp 157 "GET /static/xadmin/vendor/bootstrap/css/bootstrap.css HTTP/1.1" 304 0
+INFO 2021-01-27 00:09:29,414 basehttp 157 "GET /static/xadmin/css/themes/bootstrap-xadmin.css HTTP/1.1" 304 0
+INFO 2021-01-27 00:09:29,423 basehttp 157 "GET /static/xadmin/vendor/font-awesome/css/font-awesome.css HTTP/1.1" 304 0
+INFO 2021-01-27 00:09:29,431 basehttp 157 "GET /static/xadmin/css/xadmin.responsive.css HTTP/1.1" 304 0
+INFO 2021-01-27 00:09:29,432 basehttp 157 "GET /static/xadmin/vendor/jquery-ui/jquery.ui.core.js HTTP/1.1" 304 0
+INFO 2021-01-27 00:09:29,433 basehttp 157 "GET /static/xadmin/vendor/jquery/jquery.js HTTP/1.1" 304 0
+INFO 2021-01-27 00:09:29,443 basehttp 157 "GET /static/xadmin/css/xadmin.main.css HTTP/1.1" 304 0
+INFO 2021-01-27 00:09:29,448 basehttp 157 "GET /static/xadmin/css/xadmin.plugins.css HTTP/1.1" 304 0
+INFO 2021-01-27 00:09:29,456 basehttp 157 "GET /static/xadmin/js/xadmin.main.js HTTP/1.1" 304 0
+INFO 2021-01-27 00:09:29,462 basehttp 157 "GET /static/xadmin/vendor/jquery-ui/jquery.ui.mouse.js HTTP/1.1" 304 0
+INFO 2021-01-27 00:09:29,463 basehttp 157 "GET /xadmin/jsi18n/ HTTP/1.1" 200 3974
+INFO 2021-01-27 00:09:29,467 basehttp 157 "GET /static/xadmin/vendor/jquery-ui/jquery.ui.sortable.js HTTP/1.1" 304 0
+INFO 2021-01-27 00:09:29,467 basehttp 157 "GET /static/xadmin/vendor/jquery-ui/jquery.ui.widget.js HTTP/1.1" 304 0
+INFO 2021-01-27 00:09:29,468 basehttp 157 "GET /static/xadmin/vendor/bootstrap/js/bootstrap.js HTTP/1.1" 304 0
+INFO 2021-01-27 00:09:29,468 basehttp 157 "GET /static/xadmin/js/xadmin.responsive.js HTTP/1.1" 304 0
+INFO 2021-01-27 00:09:29,569 basehttp 157 "GET /static/xadmin/vendor/font-awesome/fonts/fontawesome-webfont.woff?v=4.0.3 HTTP/1.1" 304 0
+WARNING 2021-01-27 00:09:29,624 log 230 Not Found: /favicon.ico
+WARNING 2021-01-27 00:09:29,624 basehttp 157 "GET /favicon.ico HTTP/1.1" 404 1980
+INFO 2021-01-27 00:10:04,186 basehttp 157 "POST /xadmin/ HTTP/1.1" 302 0
+INFO 2021-01-27 00:10:04,388 basehttp 157 "GET /xadmin/ HTTP/1.1" 200 9942
+INFO 2021-01-27 00:10:04,504 basehttp 157 "GET /static/xadmin/js/xadmin.plugin.portal.js HTTP/1.1" 304 0
+INFO 2021-01-27 00:10:04,505 basehttp 157 "GET /static/xadmin/css/xadmin.page.dashboard.css HTTP/1.1" 304 0
+INFO 2021-01-27 00:10:04,505 basehttp 157 "GET /static/xadmin/js/xadmin.page.dashboard.js HTTP/1.1" 304 0
+INFO 2021-01-27 00:10:04,577 basehttp 157 "GET /xadmin/jsi18n/ HTTP/1.1" 200 7732
+INFO 2021-01-27 00:16:11,700 basehttp 157 "GET /xadmin/ HTTP/1.1" 200 9942
+INFO 2021-01-27 00:16:11,799 basehttp 157 "GET /xadmin/jsi18n/ HTTP/1.1" 200 7732
+INFO 2021-01-27 00:16:14,885 basehttp 157 "GET /xadmin/ HTTP/1.1" 200 9942
+INFO 2021-01-27 00:16:14,999 basehttp 157 "GET /xadmin/jsi18n/ HTTP/1.1" 200 7732
+INFO 2021-01-27 00:16:31,481 autoreload 617 Watching for file changes with StatReloader
+INFO 2021-01-27 00:16:39,804 basehttp 157 "GET /xadmin/ HTTP/1.1" 200 13705
+INFO 2021-01-27 00:16:39,906 basehttp 157 "GET /static/xadmin/js/xadmin.plugin.themes.js HTTP/1.1" 200 3489
+INFO 2021-01-27 00:16:39,910 basehttp 157 "GET /static/xadmin/vendor/jquery-ui/jquery.ui.effect.js HTTP/1.1" 200 31918
+INFO 2021-01-27 00:16:39,960 basehttp 157 "GET /xadmin/jsi18n/ HTTP/1.1" 200 7732
+ERROR 2021-01-27 00:16:49,630 log 230 Internal Server Error: /xadmin/users/user/
+Traceback (most recent call last):
+  File "C:\Users\Sunny_Future\AppData\Roaming\Python\Python36\site-packages\django\db\models\options.py", line 575, in get_field
+    return self.fields_map[field_name]
+KeyError: 'action_checkbox'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Sunny_Future\AppData\Roaming\Python\Python36\site-packages\xadmin\views\list.py", line 224, in get_list_queryset
+    field = self.opts.get_field(field_name)
+  File "C:\Users\Sunny_Future\AppData\Roaming\Python\Python36\site-packages\django\db\models\options.py", line 577, in get_field
+    raise FieldDoesNotExist("%s has no field named '%s'" % (self.object_name, field_name))
+django.core.exceptions.FieldDoesNotExist: User has no field named 'action_checkbox'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Sunny_Future\AppData\Roaming\Python\Python36\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "C:\Users\Sunny_Future\AppData\Roaming\Python\Python36\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Sunny_Future\AppData\Roaming\Python\Python36\site-packages\xadmin\sites.py", line 300, in wrapper
+    return self.admin_view(view, cacheable)(*args, **kwargs)
+  File "C:\Users\Sunny_Future\AppData\Roaming\Python\Python36\site-packages\django\views\decorators\cache.py", line 44, in _wrapped_view_func
+    response = view_func(request, *args, **kwargs)
+  File "C:\Users\Sunny_Future\AppData\Roaming\Python\Python36\site-packages\xadmin\sites.py", line 208, in inner
+    return view(request, *args, **kwargs)
+  File "C:\Users\Sunny_Future\AppData\Roaming\Python\Python36\site-packages\xadmin\views\base.py", line 282, in view
+    return handler(request, *args, **kwargs)
+  File "C:\Users\Sunny_Future\AppData\Roaming\Python\Python36\site-packages\django\utils\decorators.py", line 43, in _wrapper
+    return bound_method(*args, **kwargs)
+  File "C:\Users\Sunny_Future\AppData\Roaming\Python\Python36\site-packages\django\utils\decorators.py", line 130, in _wrapped_view
+    response = view_func(request, *args, **kwargs)
+  File "C:\Users\Sunny_Future\AppData\Roaming\Python\Python36\site-packages\xadmin\views\base.py", line 80, in method
+    return filter_chain(filters, len(filters) - 1, _inner_method, *args, **kwargs)
+  File "C:\Users\Sunny_Future\AppData\Roaming\Python\Python36\site-packages\xadmin\views\base.py", line 49, in filter_chain
+    return func()
+  File "C:\Users\Sunny_Future\AppData\Roaming\Python\Python36\site-packages\xadmin\views\base.py", line 74, in _inner_method
+    return func(self, *args, **kwargs)
+  File "C:\Users\Sunny_Future\AppData\Roaming\Python\Python36\site-packages\xadmin\views\list.py", line 401, in get
+    response = self.get_result_list()
+  File "C:\Users\Sunny_Future\AppData\Roaming\Python\Python36\site-packages\xadmin\views\base.py", line 80, in method
+    return filter_chain(filters, len(filters) - 1, _inner_method, *args, **kwargs)
+  File "C:\Users\Sunny_Future\AppData\Roaming\Python\Python36\site-packages\xadmin\views\base.py", line 49, in filter_chain
+    return func()
+  File "C:\Users\Sunny_Future\AppData\Roaming\Python\Python36\site-packages\xadmin\views\base.py", line 74, in _inner_method
+    return func(self, *args, **kwargs)
+  File "C:\Users\Sunny_Future\AppData\Roaming\Python\Python36\site-packages\xadmin\views\list.py", line 200, in get_result_list
+    return self.make_result_list()
+  File "C:\Users\Sunny_Future\AppData\Roaming\Python\Python36\site-packages\xadmin\views\list.py", line 172, in make_result_list
+    self.list_queryset = self.get_list_queryset()
+  File "C:\Users\Sunny_Future\AppData\Roaming\Python\Python36\site-packages\xadmin\views\base.py", line 80, in method
+    return filter_chain(filters, len(filters) - 1, _inner_method, *args, **kwargs)
+  File "C:\Users\Sunny_Future\AppData\Roaming\Python\Python36\site-packages\xadmin\views\base.py", line 63, in filter_chain
+    return filter_chain(filters, token - 1, _inner_method, *args, **kwargs)
+  File "C:\Users\Sunny_Future\AppData\Roaming\Python\Python36\site-packages\xadmin\views\base.py", line 49, in filter_chain
+    return func()
+  File "C:\Users\Sunny_Future\AppData\Roaming\Python\Python36\site-packages\xadmin\views\base.py", line 62, in _inner_method
+    return fm(func if fargs[1] == '__' else func(), *args, **kwargs)
+  File "C:\Users\Sunny_Future\AppData\Roaming\Python\Python36\site-packages\xadmin\views\base.py", line 74, in _inner_method
+    return func(self, *args, **kwargs)
+  File "C:\Users\Sunny_Future\AppData\Roaming\Python\Python36\site-packages\xadmin\views\list.py", line 225, in get_list_queryset
+    except models.FieldDoesNotExist:
+AttributeError: module 'django.db.models' has no attribute 'FieldDoesNotExist'
+ERROR 2021-01-27 00:16:49,653 basehttp 157 "GET /xadmin/users/user/ HTTP/1.1" 500 173419
+INFO 2021-01-27 00:16:52,975 basehttp 157 "GET /xadmin/ HTTP/1.1" 200 13705
+INFO 2021-01-27 00:17:07,288 basehttp 157 "POST /xadmin/settings/user HTTP/1.1" 200 0
+INFO 2021-01-27 00:17:07,327 basehttp 157 "GET /static/xadmin/css/themes/bootstrap-theme.css HTTP/1.1" 200 19791
+INFO 2021-01-27 00:17:15,813 basehttp 157 "POST /xadmin/settings/user HTTP/1.1" 200 0
+INFO 2021-01-27 00:17:25,391 basehttp 157 "POST /xadmin/settings/user HTTP/1.1" 200 0
+INFO 2021-01-27 00:17:29,994 basehttp 157 "POST /xadmin/settings/user HTTP/1.1" 200 0
+ERROR 2021-01-27 00:19:05,441 log 230 Internal Server Error: /xadmin/users/user/
+Traceback (most recent call last):
+  File "C:\Users\Sunny_Future\AppData\Roaming\Python\Python36\site-packages\django\db\models\options.py", line 575, in get_field
+    return self.fields_map[field_name]
+KeyError: 'action_checkbox'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Sunny_Future\AppData\Roaming\Python\Python36\site-packages\xadmin\views\list.py", line 224, in get_list_queryset
+    field = self.opts.get_field(field_name)
+  File "C:\Users\Sunny_Future\AppData\Roaming\Python\Python36\site-packages\django\db\models\options.py", line 577, in get_field
+    raise FieldDoesNotExist("%s has no field named '%s'" % (self.object_name, field_name))
+django.core.exceptions.FieldDoesNotExist: User has no field named 'action_checkbox'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Sunny_Future\AppData\Roaming\Python\Python36\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "C:\Users\Sunny_Future\AppData\Roaming\Python\Python36\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Sunny_Future\AppData\Roaming\Python\Python36\site-packages\xadmin\sites.py", line 300, in wrapper
+    return self.admin_view(view, cacheable)(*args, **kwargs)
+  File "C:\Users\Sunny_Future\AppData\Roaming\Python\Python36\site-packages\django\views\decorators\cache.py", line 44, in _wrapped_view_func
+    response = view_func(request, *args, **kwargs)
+  File "C:\Users\Sunny_Future\AppData\Roaming\Python\Python36\site-packages\xadmin\sites.py", line 208, in inner
+    return view(request, *args, **kwargs)
+  File "C:\Users\Sunny_Future\AppData\Roaming\Python\Python36\site-packages\xadmin\views\base.py", line 282, in view
+    return handler(request, *args, **kwargs)
+  File "C:\Users\Sunny_Future\AppData\Roaming\Python\Python36\site-packages\django\utils\decorators.py", line 43, in _wrapper
+    return bound_method(*args, **kwargs)
+  File "C:\Users\Sunny_Future\AppData\Roaming\Python\Python36\site-packages\django\utils\decorators.py", line 130, in _wrapped_view
+    response = view_func(request, *args, **kwargs)
+  File "C:\Users\Sunny_Future\AppData\Roaming\Python\Python36\site-packages\xadmin\views\base.py", line 80, in method
+    return filter_chain(filters, len(filters) - 1, _inner_method, *args, **kwargs)
+  File "C:\Users\Sunny_Future\AppData\Roaming\Python\Python36\site-packages\xadmin\views\base.py", line 49, in filter_chain
+    return func()
+  File "C:\Users\Sunny_Future\AppData\Roaming\Python\Python36\site-packages\xadmin\views\base.py", line 74, in _inner_method
+    return func(self, *args, **kwargs)
+  File "C:\Users\Sunny_Future\AppData\Roaming\Python\Python36\site-packages\xadmin\views\list.py", line 401, in get
+    response = self.get_result_list()
+  File "C:\Users\Sunny_Future\AppData\Roaming\Python\Python36\site-packages\xadmin\views\base.py", line 80, in method
+    return filter_chain(filters, len(filters) - 1, _inner_method, *args, **kwargs)
+  File "C:\Users\Sunny_Future\AppData\Roaming\Python\Python36\site-packages\xadmin\views\base.py", line 49, in filter_chain
+    return func()
+  File "C:\Users\Sunny_Future\AppData\Roaming\Python\Python36\site-packages\xadmin\views\base.py", line 74, in _inner_method
+    return func(self, *args, **kwargs)
+  File "C:\Users\Sunny_Future\AppData\Roaming\Python\Python36\site-packages\xadmin\views\list.py", line 200, in get_result_list
+    return self.make_result_list()
+  File "C:\Users\Sunny_Future\AppData\Roaming\Python\Python36\site-packages\xadmin\views\list.py", line 172, in make_result_list
+    self.list_queryset = self.get_list_queryset()
+  File "C:\Users\Sunny_Future\AppData\Roaming\Python\Python36\site-packages\xadmin\views\base.py", line 80, in method
+    return filter_chain(filters, len(filters) - 1, _inner_method, *args, **kwargs)
+  File "C:\Users\Sunny_Future\AppData\Roaming\Python\Python36\site-packages\xadmin\views\base.py", line 63, in filter_chain
+    return filter_chain(filters, token - 1, _inner_method, *args, **kwargs)
+  File "C:\Users\Sunny_Future\AppData\Roaming\Python\Python36\site-packages\xadmin\views\base.py", line 49, in filter_chain
+    return func()
+  File "C:\Users\Sunny_Future\AppData\Roaming\Python\Python36\site-packages\xadmin\views\base.py", line 62, in _inner_method
+    return fm(func if fargs[1] == '__' else func(), *args, **kwargs)
+  File "C:\Users\Sunny_Future\AppData\Roaming\Python\Python36\site-packages\xadmin\views\base.py", line 74, in _inner_method
+    return func(self, *args, **kwargs)
+  File "C:\Users\Sunny_Future\AppData\Roaming\Python\Python36\site-packages\xadmin\views\list.py", line 225, in get_list_queryset
+    except models.FieldDoesNotExist:
+AttributeError: module 'django.db.models' has no attribute 'FieldDoesNotExist'
+ERROR 2021-01-27 00:19:05,460 basehttp 157 "GET /xadmin/users/user/ HTTP/1.1" 500 173694
+ERROR 2021-01-27 00:24:47,897 log 230 Internal Server Error: /xadmin/users/user/
+Traceback (most recent call last):
+  File "C:\Users\Sunny_Future\AppData\Roaming\Python\Python36\site-packages\django\db\models\options.py", line 575, in get_field
+    return self.fields_map[field_name]
+KeyError: 'action_checkbox'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Sunny_Future\AppData\Roaming\Python\Python36\site-packages\xadmin\views\list.py", line 224, in get_list_queryset
+    field = self.opts.get_field(field_name)
+  File "C:\Users\Sunny_Future\AppData\Roaming\Python\Python36\site-packages\django\db\models\options.py", line 577, in get_field
+    raise FieldDoesNotExist("%s has no field named '%s'" % (self.object_name, field_name))
+django.core.exceptions.FieldDoesNotExist: User has no field named 'action_checkbox'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Sunny_Future\AppData\Roaming\Python\Python36\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "C:\Users\Sunny_Future\AppData\Roaming\Python\Python36\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Sunny_Future\AppData\Roaming\Python\Python36\site-packages\xadmin\sites.py", line 300, in wrapper
+    return self.admin_view(view, cacheable)(*args, **kwargs)
+  File "C:\Users\Sunny_Future\AppData\Roaming\Python\Python36\site-packages\django\views\decorators\cache.py", line 44, in _wrapped_view_func
+    response = view_func(request, *args, **kwargs)
+  File "C:\Users\Sunny_Future\AppData\Roaming\Python\Python36\site-packages\xadmin\sites.py", line 208, in inner
+    return view(request, *args, **kwargs)
+  File "C:\Users\Sunny_Future\AppData\Roaming\Python\Python36\site-packages\xadmin\views\base.py", line 282, in view
+    return handler(request, *args, **kwargs)
+  File "C:\Users\Sunny_Future\AppData\Roaming\Python\Python36\site-packages\django\utils\decorators.py", line 43, in _wrapper
+    return bound_method(*args, **kwargs)
+  File "C:\Users\Sunny_Future\AppData\Roaming\Python\Python36\site-packages\django\utils\decorators.py", line 130, in _wrapped_view
+    response = view_func(request, *args, **kwargs)
+  File "C:\Users\Sunny_Future\AppData\Roaming\Python\Python36\site-packages\xadmin\views\base.py", line 80, in method
+    return filter_chain(filters, len(filters) - 1, _inner_method, *args, **kwargs)
+  File "C:\Users\Sunny_Future\AppData\Roaming\Python\Python36\site-packages\xadmin\views\base.py", line 49, in filter_chain
+    return func()
+  File "C:\Users\Sunny_Future\AppData\Roaming\Python\Python36\site-packages\xadmin\views\base.py", line 74, in _inner_method
+    return func(self, *args, **kwargs)
+  File "C:\Users\Sunny_Future\AppData\Roaming\Python\Python36\site-packages\xadmin\views\list.py", line 401, in get
+    response = self.get_result_list()
+  File "C:\Users\Sunny_Future\AppData\Roaming\Python\Python36\site-packages\xadmin\views\base.py", line 80, in method
+    return filter_chain(filters, len(filters) - 1, _inner_method, *args, **kwargs)
+  File "C:\Users\Sunny_Future\AppData\Roaming\Python\Python36\site-packages\xadmin\views\base.py", line 49, in filter_chain
+    return func()
+  File "C:\Users\Sunny_Future\AppData\Roaming\Python\Python36\site-packages\xadmin\views\base.py", line 74, in _inner_method
+    return func(self, *args, **kwargs)
+  File "C:\Users\Sunny_Future\AppData\Roaming\Python\Python36\site-packages\xadmin\views\list.py", line 200, in get_result_list
+    return self.make_result_list()
+  File "C:\Users\Sunny_Future\AppData\Roaming\Python\Python36\site-packages\xadmin\views\list.py", line 172, in make_result_list
+    self.list_queryset = self.get_list_queryset()
+  File "C:\Users\Sunny_Future\AppData\Roaming\Python\Python36\site-packages\xadmin\views\base.py", line 80, in method
+    return filter_chain(filters, len(filters) - 1, _inner_method, *args, **kwargs)
+  File "C:\Users\Sunny_Future\AppData\Roaming\Python\Python36\site-packages\xadmin\views\base.py", line 63, in filter_chain
+    return filter_chain(filters, token - 1, _inner_method, *args, **kwargs)
+  File "C:\Users\Sunny_Future\AppData\Roaming\Python\Python36\site-packages\xadmin\views\base.py", line 49, in filter_chain
+    return func()
+  File "C:\Users\Sunny_Future\AppData\Roaming\Python\Python36\site-packages\xadmin\views\base.py", line 62, in _inner_method
+    return fm(func if fargs[1] == '__' else func(), *args, **kwargs)
+  File "C:\Users\Sunny_Future\AppData\Roaming\Python\Python36\site-packages\xadmin\views\base.py", line 74, in _inner_method
+    return func(self, *args, **kwargs)
+  File "C:\Users\Sunny_Future\AppData\Roaming\Python\Python36\site-packages\xadmin\views\list.py", line 225, in get_list_queryset
+    except models.FieldDoesNotExist:
+AttributeError: module 'django.db.models' has no attribute 'FieldDoesNotExist'
+ERROR 2021-01-27 00:24:47,906 basehttp 157 "GET /xadmin/users/user/ HTTP/1.1" 500 173676
+WARNING 2021-01-27 00:25:02,407 log 230 Not Found: /xadmin/users/
+WARNING 2021-01-27 00:25:02,407 basehttp 157 "GET /xadmin/users/ HTTP/1.1" 404 5994
+INFO 2021-01-27 00:25:19,719 basehttp 157 "GET /xadmin/ HTTP/1.1" 200 13710
+INFO 2021-01-27 00:25:19,857 basehttp 157 "GET /xadmin/jsi18n/ HTTP/1.1" 200 7732
+ERROR 2021-01-27 00:25:25,161 log 230 Internal Server Error: /xadmin/users/user/
+Traceback (most recent call last):
+  File "C:\Users\Sunny_Future\AppData\Roaming\Python\Python36\site-packages\django\db\models\options.py", line 575, in get_field
+    return self.fields_map[field_name]
+KeyError: 'action_checkbox'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Sunny_Future\AppData\Roaming\Python\Python36\site-packages\xadmin\views\list.py", line 224, in get_list_queryset
+    field = self.opts.get_field(field_name)
+  File "C:\Users\Sunny_Future\AppData\Roaming\Python\Python36\site-packages\django\db\models\options.py", line 577, in get_field
+    raise FieldDoesNotExist("%s has no field named '%s'" % (self.object_name, field_name))
+django.core.exceptions.FieldDoesNotExist: User has no field named 'action_checkbox'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Sunny_Future\AppData\Roaming\Python\Python36\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "C:\Users\Sunny_Future\AppData\Roaming\Python\Python36\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Sunny_Future\AppData\Roaming\Python\Python36\site-packages\xadmin\sites.py", line 300, in wrapper
+    return self.admin_view(view, cacheable)(*args, **kwargs)
+  File "C:\Users\Sunny_Future\AppData\Roaming\Python\Python36\site-packages\django\views\decorators\cache.py", line 44, in _wrapped_view_func
+    response = view_func(request, *args, **kwargs)
+  File "C:\Users\Sunny_Future\AppData\Roaming\Python\Python36\site-packages\xadmin\sites.py", line 208, in inner
+    return view(request, *args, **kwargs)
+  File "C:\Users\Sunny_Future\AppData\Roaming\Python\Python36\site-packages\xadmin\views\base.py", line 282, in view
+    return handler(request, *args, **kwargs)
+  File "C:\Users\Sunny_Future\AppData\Roaming\Python\Python36\site-packages\django\utils\decorators.py", line 43, in _wrapper
+    return bound_method(*args, **kwargs)
+  File "C:\Users\Sunny_Future\AppData\Roaming\Python\Python36\site-packages\django\utils\decorators.py", line 130, in _wrapped_view
+    response = view_func(request, *args, **kwargs)
+  File "C:\Users\Sunny_Future\AppData\Roaming\Python\Python36\site-packages\xadmin\views\base.py", line 80, in method
+    return filter_chain(filters, len(filters) - 1, _inner_method, *args, **kwargs)
+  File "C:\Users\Sunny_Future\AppData\Roaming\Python\Python36\site-packages\xadmin\views\base.py", line 49, in filter_chain
+    return func()
+  File "C:\Users\Sunny_Future\AppData\Roaming\Python\Python36\site-packages\xadmin\views\base.py", line 74, in _inner_method
+    return func(self, *args, **kwargs)
+  File "C:\Users\Sunny_Future\AppData\Roaming\Python\Python36\site-packages\xadmin\views\list.py", line 401, in get
+    response = self.get_result_list()
+  File "C:\Users\Sunny_Future\AppData\Roaming\Python\Python36\site-packages\xadmin\views\base.py", line 80, in method
+    return filter_chain(filters, len(filters) - 1, _inner_method, *args, **kwargs)
+  File "C:\Users\Sunny_Future\AppData\Roaming\Python\Python36\site-packages\xadmin\views\base.py", line 49, in filter_chain
+    return func()
+  File "C:\Users\Sunny_Future\AppData\Roaming\Python\Python36\site-packages\xadmin\views\base.py", line 74, in _inner_method
+    return func(self, *args, **kwargs)
+  File "C:\Users\Sunny_Future\AppData\Roaming\Python\Python36\site-packages\xadmin\views\list.py", line 200, in get_result_list
+    return self.make_result_list()
+  File "C:\Users\Sunny_Future\AppData\Roaming\Python\Python36\site-packages\xadmin\views\list.py", line 172, in make_result_list
+    self.list_queryset = self.get_list_queryset()
+  File "C:\Users\Sunny_Future\AppData\Roaming\Python\Python36\site-packages\xadmin\views\base.py", line 80, in method
+    return filter_chain(filters, len(filters) - 1, _inner_method, *args, **kwargs)
+  File "C:\Users\Sunny_Future\AppData\Roaming\Python\Python36\site-packages\xadmin\views\base.py", line 63, in filter_chain
+    return filter_chain(filters, token - 1, _inner_method, *args, **kwargs)
+  File "C:\Users\Sunny_Future\AppData\Roaming\Python\Python36\site-packages\xadmin\views\base.py", line 49, in filter_chain
+    return func()
+  File "C:\Users\Sunny_Future\AppData\Roaming\Python\Python36\site-packages\xadmin\views\base.py", line 62, in _inner_method
+    return fm(func if fargs[1] == '__' else func(), *args, **kwargs)
+  File "C:\Users\Sunny_Future\AppData\Roaming\Python\Python36\site-packages\xadmin\views\base.py", line 74, in _inner_method
+    return func(self, *args, **kwargs)
+  File "C:\Users\Sunny_Future\AppData\Roaming\Python\Python36\site-packages\xadmin\views\list.py", line 225, in get_list_queryset
+    except models.FieldDoesNotExist:
+AttributeError: module 'django.db.models' has no attribute 'FieldDoesNotExist'
+ERROR 2021-01-27 00:25:25,168 basehttp 157 "GET /xadmin/users/user/ HTTP/1.1" 500 173694
+INFO 2021-01-27 00:28:28,864 autoreload 617 Watching for file changes with StatReloader
+ERROR 2021-01-27 00:28:37,003 log 230 Internal Server Error: /xadmin/users/user/
+Traceback (most recent call last):
+  File "C:\Users\Sunny_Future\AppData\Roaming\Python\Python36\site-packages\django\db\models\options.py", line 575, in get_field
+    return self.fields_map[field_name]
+KeyError: 'action_checkbox'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Sunny_Future\AppData\Roaming\Python\Python36\site-packages\xadmin\views\list.py", line 224, in get_list_queryset
+    field = self.opts.get_field(field_name)
+  File "C:\Users\Sunny_Future\AppData\Roaming\Python\Python36\site-packages\django\db\models\options.py", line 577, in get_field
+    raise FieldDoesNotExist("%s has no field named '%s'" % (self.object_name, field_name))
+django.core.exceptions.FieldDoesNotExist: User has no field named 'action_checkbox'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Sunny_Future\AppData\Roaming\Python\Python36\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "C:\Users\Sunny_Future\AppData\Roaming\Python\Python36\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Sunny_Future\AppData\Roaming\Python\Python36\site-packages\xadmin\sites.py", line 300, in wrapper
+    return self.admin_view(view, cacheable)(*args, **kwargs)
+  File "C:\Users\Sunny_Future\AppData\Roaming\Python\Python36\site-packages\django\views\decorators\cache.py", line 44, in _wrapped_view_func
+    response = view_func(request, *args, **kwargs)
+  File "C:\Users\Sunny_Future\AppData\Roaming\Python\Python36\site-packages\xadmin\sites.py", line 208, in inner
+    return view(request, *args, **kwargs)
+  File "C:\Users\Sunny_Future\AppData\Roaming\Python\Python36\site-packages\xadmin\views\base.py", line 282, in view
+    return handler(request, *args, **kwargs)
+  File "C:\Users\Sunny_Future\AppData\Roaming\Python\Python36\site-packages\django\utils\decorators.py", line 43, in _wrapper
+    return bound_method(*args, **kwargs)
+  File "C:\Users\Sunny_Future\AppData\Roaming\Python\Python36\site-packages\django\utils\decorators.py", line 130, in _wrapped_view
+    response = view_func(request, *args, **kwargs)
+  File "C:\Users\Sunny_Future\AppData\Roaming\Python\Python36\site-packages\xadmin\views\base.py", line 80, in method
+    return filter_chain(filters, len(filters) - 1, _inner_method, *args, **kwargs)
+  File "C:\Users\Sunny_Future\AppData\Roaming\Python\Python36\site-packages\xadmin\views\base.py", line 49, in filter_chain
+    return func()
+  File "C:\Users\Sunny_Future\AppData\Roaming\Python\Python36\site-packages\xadmin\views\base.py", line 74, in _inner_method
+    return func(self, *args, **kwargs)
+  File "C:\Users\Sunny_Future\AppData\Roaming\Python\Python36\site-packages\xadmin\views\list.py", line 401, in get
+    response = self.get_result_list()
+  File "C:\Users\Sunny_Future\AppData\Roaming\Python\Python36\site-packages\xadmin\views\base.py", line 80, in method
+    return filter_chain(filters, len(filters) - 1, _inner_method, *args, **kwargs)
+  File "C:\Users\Sunny_Future\AppData\Roaming\Python\Python36\site-packages\xadmin\views\base.py", line 49, in filter_chain
+    return func()
+  File "C:\Users\Sunny_Future\AppData\Roaming\Python\Python36\site-packages\xadmin\views\base.py", line 74, in _inner_method
+    return func(self, *args, **kwargs)
+  File "C:\Users\Sunny_Future\AppData\Roaming\Python\Python36\site-packages\xadmin\views\list.py", line 200, in get_result_list
+    return self.make_result_list()
+  File "C:\Users\Sunny_Future\AppData\Roaming\Python\Python36\site-packages\xadmin\views\list.py", line 172, in make_result_list
+    self.list_queryset = self.get_list_queryset()
+  File "C:\Users\Sunny_Future\AppData\Roaming\Python\Python36\site-packages\xadmin\views\base.py", line 80, in method
+    return filter_chain(filters, len(filters) - 1, _inner_method, *args, **kwargs)
+  File "C:\Users\Sunny_Future\AppData\Roaming\Python\Python36\site-packages\xadmin\views\base.py", line 63, in filter_chain
+    return filter_chain(filters, token - 1, _inner_method, *args, **kwargs)
+  File "C:\Users\Sunny_Future\AppData\Roaming\Python\Python36\site-packages\xadmin\views\base.py", line 49, in filter_chain
+    return func()
+  File "C:\Users\Sunny_Future\AppData\Roaming\Python\Python36\site-packages\xadmin\views\base.py", line 62, in _inner_method
+    return fm(func if fargs[1] == '__' else func(), *args, **kwargs)
+  File "C:\Users\Sunny_Future\AppData\Roaming\Python\Python36\site-packages\xadmin\views\base.py", line 74, in _inner_method
+    return func(self, *args, **kwargs)
+  File "C:\Users\Sunny_Future\AppData\Roaming\Python\Python36\site-packages\xadmin\views\list.py", line 225, in get_list_queryset
+    except models.FieldDoesNotExist:
+AttributeError: module 'django.db.models' has no attribute 'FieldDoesNotExist'
+ERROR 2021-01-27 00:28:37,019 basehttp 157 "GET /xadmin/users/user/ HTTP/1.1" 500 173676
