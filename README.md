@@ -27,6 +27,6 @@
 - 管理后台admin系统，继承默认的 auth_user 表
 
 
-3、待更新
+3、xadmin
 
 - xadmin
