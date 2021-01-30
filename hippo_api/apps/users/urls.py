@@ -3,4 +3,5 @@ from rest_framework_jwt.views import obtain_jwt_token
 urlpatterns = [
 
     re_path(r'^login/', obtain_jwt_token),
+
 ]

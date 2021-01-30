@@ -2,4 +2,5 @@ from django.apps import AppConfig
 
 
 class HostConfig(AppConfig):
-    name = '主机管理'
+    name = 'host'
+    verbose_name = '主机应用'

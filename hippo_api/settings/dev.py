@@ -11,6 +11,7 @@ https://docs.djangoproject.com/en/3.1/ref/settings/
 """
 import os
 import sys
+import datetime
 from pathlib import Path
 
 # Build paths inside the project like this: BASE_DIR / 'subdir'.
@@ -216,11 +217,16 @@ LOGGING = {
 }
 
 REST_FRAMEWORK = {
-    # 异常处理
-    'EXCEPTION_HANDLER': 'hippo02.utils.exceptions.custom_exception_handler',
+    # 异常处理  hippo_api.utils.exceptions.custom_exception_handler
+    'EXCEPTION_HANDLER': 'hippo_api.utils.exceptions.custom_exception_handler',
     'DEFAULT_AUTHENTICATION_CLASSES': (
         'rest_framework_jwt.authentication.JSONWebTokenAuthentication',
         'rest_framework.authentication.SessionAuthentication',
         'rest_framework.authentication.BasicAuthentication',
     ),
+}
+
+
+JWT_AUTH = {
+    'JWT_EXPIRATION_DELTA': datetime.timedelta(days=1),
 }
